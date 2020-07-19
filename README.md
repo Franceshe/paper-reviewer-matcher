@@ -55,6 +55,10 @@ for Python 3.6,
 ```sh
 pip install --user --upgrade ortools
 ```
+*   warnings.warn('Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning')
+`
+pip3 install python-Levenshtein
+`
 
 ## Citations
 
